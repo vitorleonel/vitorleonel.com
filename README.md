@@ -20,3 +20,4 @@ Desenvolvedor full stack, apaixonado por Javascript <3 e atualmente morando em R
 ### Projetos
 
 - [Treinar Front-end](https://www.treinarfrontend.com/)
+- [React People](https://www.reactpeople.org/)
